@@ -1,0 +1,33 @@
+ul
+{
+list-style-type: none;
+position: absolute;
+background-color: #688268;
+margin: 0;
+padding: 0;
+display: none;
+}
+
+li button
+{
+  font-size:30px;
+  margin:10px;
+}
+
+#bList
+{
+  font-size: 25px;
+}
+
+#bList, #roll
+{
+  position: absolute;
+}
+p
+{
+   position: absolute;
+   font-size: 30px;
+}
+#test{
+    top: 400px;
+}
